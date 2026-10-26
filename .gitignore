@@ -1,0 +1,11 @@
+# Mengabaikan virtual environment
+env/
+venv/
+ENV/
+
+# Mengabaikan cache python
+**/__pycache__/
+*.pyc
+
+# Mengabaikan file backup Jupyter Notebook
+.ipynb_checkpoints/
